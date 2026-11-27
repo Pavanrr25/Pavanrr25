@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year **B.Tech Information Technology** student at **Sandip Institute of Technology and Research Centre, Nashik** (2023–2027), currently working as a **Website Development Intern at Growmatiq**.
+I'm a final-year **B.Tech Information Technology** student at **Sandip Institute of Technology and Research Centre, Nashik** (2023–2027), currently working as a **Website Development & GTM Intern at Growmatiq**.
 
 I like turning real-world requirements into clean, maintainable software: full-stack apps, secure REST APIs, and well-designed relational databases. My core stack is **Java, Spring Boot, React.js, and MySQL**.
 
-- 💼 Website Development Intern @ **Growmatiq**
+- 💼 Website Development & GTM Intern @ **Growmatiq**
 - ☕ Focused on Java, Spring Boot, REST APIs, and full-stack development
 - 🗄️ Interested in backend engineering, database design, and application security
 - 🤖 Exploring LLMs, RAG, and workflow automation
@@ -84,14 +84,20 @@ I like turning real-world requirements into clean, maintainable software: full-s
 
 ## 💼 Experience
 
-### Website Development Intern — Growmatiq
+### Website Development & GTM Intern — Growmatiq
 *Remote · April 2026 – Present*
 
-- Build and customize responsive client websites with **Shopify, HTML, CSS, and JavaScript**
-- Work with themes, plugins, and third-party integrations
+**🌐 Website Development**
+- Build and customize responsive client websites with **Shopify, Webflow, HTML, CSS, and JavaScript**
+- Configure themes, plugins, and third-party integrations to fit client requirements
 - Implement **SEO and GEO** strategies to improve visibility across search engines and AI-powered search
-- Support prospect research and lead-generation workflows using CRM and sales-intelligence tools
-- Collaborate with design and marketing teams on websites, automation, and digital campaigns
+- Optimize site structure, page speed, and on-page content for better discoverability
+
+**📈 Go-To-Market (GTM)**
+- Support GTM campaigns through prospect research, lead generation, and outreach workflows
+- Use **CRM and sales-intelligence tools** to build and qualify targeted lead lists
+- Automate GTM and lead workflows with **n8n and Zapier** to reduce manual effort
+- Collaborate with design, marketing, and sales teams on launches and digital campaigns
 
 ---
 
