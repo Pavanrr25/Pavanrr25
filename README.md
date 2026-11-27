@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-banner.svg" alt="Pavan Rathod — Java Full-Stack Developer" width="100%" />
+  <img src="github-banner.svg" alt="Pavan Rathod — Java Full-Stack Developer" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Pavan Rathod 👋</h1>
